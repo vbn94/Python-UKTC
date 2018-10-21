@@ -1,2 +1,2 @@
 # Python-UKTC
-Data stricture and algorithms with Python course 
+Data structure and algorithms with Python course 
