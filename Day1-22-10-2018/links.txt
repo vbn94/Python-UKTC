@@ -1,0 +1,4 @@
+https://www.python.org/downloads/ - Python интерпретатор
+https://www.jetbrains.com/pycharm/download/#section=windows - Среда за програмиране - PyCharm Community!!!
+https://www.learnpython.org/ - уроци
+https://michael0x2a.com/blog/turtle-examples - уроци с костенурката
