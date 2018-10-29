@@ -1,5 +1,5 @@
 # Python-UKTC
-Data structure and algorithms with Python course 
+Data structure and algorithms and robotics with Python course 
 
 !!! Предстоящо занятие №3 -> 05.11.2018 (понеделник) 16:30 - 18:30 !!!
 
